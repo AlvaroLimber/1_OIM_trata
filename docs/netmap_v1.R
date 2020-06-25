@@ -4,7 +4,7 @@ library(readxl)
 library(igraph)
 library(sna)
 ###################################################
-setwd("/Users/iMac6/Desktop/_ARU2020/1_OIM_trata")
+setwd("/Users/iMac6/Desktop/_ARU2020/1_OIM_trata/docs")
 setwd("~/Downloads/netscix2016")
 ###################################################
 oim_v<-read_excel("entidades.xlsx",1,skip=1)
